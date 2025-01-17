@@ -1,0 +1,60 @@
+
+.abbey-road {
+    background-image: url('The_Beatles_-_Abbey_Road.jpg');
+    background-size: cover;
+    background-position: center;
+    color: black; /* Чтобы текст был читаемым */
+}
+
+/* Стили для шапки */
+header {
+    background-color: #a4a4a4;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+/* Стили для ссылок в навигации */
+nav a {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Основной контент */
+main {
+    padding: 20px;
+}
+
+/* Заголовки */
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+}
+
+/* Белый фон для страницы */
+.white-background {
+    background-color: white;
+    color: black;
+}
+
+/* Голубой фон для страницы */
+.blue-background {
+    background-color: lightblue;
+    color: black;
+}
